@@ -20,7 +20,7 @@ PUBLISHING OPTION: GITHUB PAGES
 4. In the repository, open Settings → Pages.
 5. Under Build and deployment, choose Deploy from a branch; select main and /(root), then Save.
 6. Wait for the published site link to appear in Settings → Pages. It will usually resemble:
-   https://YOUR-USERNAME.github.io/shailvi-portfolio/
+   https://shailvikumari.github.io/shailvi-portfolio/
 7. To update the website later, edit/upload index.html and images in the same repository. GitHub Pages republishes the changes.
 
 IMPORTANT
